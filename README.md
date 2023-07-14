@@ -97,7 +97,7 @@ body::before {
 <a href="20230714_012.JPG" data-lightbox="abc"><img src="20230714_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_013.JPG" data-lightbox="abc"><img src="20230714_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_014.JPG" data-lightbox="abc"><img src="20230714_014.JPG" alt="サンプル画像" width="900" /></a>
-<section><h4><span class="white">カークレーナートの代表作（背景画像:すでに完売、世界に100枚だけ。）。</span></h4></section>
+<section><h4><span class="white">カークレーナートの代表作（背景画像ですが、すでに完売、原画は世界に100枚だけ存在中。）。</span></h4></section>
 <a href="20230714_015.JPG" data-lightbox="abc"><img src="20230714_015.JPG" alt="サンプル画像" width="900" /></a>
 
 
