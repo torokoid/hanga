@@ -80,7 +80,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2023年7月14日、マロニエプラザで展示会!!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
-<section><h4><span class="red">2023年6月10日</span><span class="white"><br>今回は一郎に予約してもらいました。</span></h4></section><br>
+<section><h4><span class="red">2023年7月14日</span><span class="white"><br>皐月恵版画展は宇都宮が国内初展示。</span></h4></section><br>
 <a href="20230714_001.JPG" data-lightbox="abc"><img src="20230714_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_002.JPG" data-lightbox="abc"><img src="20230714_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_003.JPG" data-lightbox="abc"><img src="20230714_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -91,10 +91,12 @@ body::before {
 <a href="20230714_008.JPG" data-lightbox="abc"><img src="20230714_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_009.JPG" data-lightbox="abc"><img src="20230714_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_010.JPG" data-lightbox="abc"><img src="20230714_010.JPG" alt="サンプル画像" width="900" /></a>
+<section><h4><span class="white"><br>併設のカークレーナートとファンタジーアート展のおみやげ。</span></h4></section><br>
 <a href="20230714_011.JPG" data-lightbox="abc"><img src="20230714_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_012.JPG" data-lightbox="abc"><img src="20230714_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_013.JPG" data-lightbox="abc"><img src="20230714_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_014.JPG" data-lightbox="abc"><img src="20230714_014.JPG" alt="サンプル画像" width="900" /></a>
+<section><h4><span class="white"><br>カークレーナートの代表作（背景画像）。</span></h4></section><br>
 <a href="20230714_015.JPG" data-lightbox="abc"><img src="20230714_015.JPG" alt="サンプル画像" width="900" /></a>
 
 
