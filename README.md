@@ -83,15 +83,15 @@ body::before {
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 
-<h4><span class="white">カークレーナートとファンタジーアート展のおみやげ。</span></h4>
+<h4><span class="white">カークレーナート展のおみやげ。</span></h4>
 <a href="20230714_017.JPG" data-lightbox="abc"><img src="20230714_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_013.JPG" data-lightbox="abc"><img src="20230714_013.JPG" alt="サンプル画像" width="900" /></a>
 <h4><span class="white">カークレーナートの代表作。（背景画像ですが、すでに完売、原画は世界に100枚だけ存在）</span></h4>
 <a href="20230714_015.JPG" data-lightbox="abc"><img src="20230714_015.JPG" alt="サンプル画像" width="900" /></a>
-<h4><span class="white">ファンタジーアート</span></h4>
+<h4><span class="white">ファンタジーアート展のおみやげ。</span></h4>
 <a href="20230714_016.JPG" data-lightbox="abc"><img src="20230714_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_012.JPG" data-lightbox="abc"><img src="20230714_012.JPG" alt="サンプル画像" width="900" /></a>
-<h4><span class="white">皐月恵さん</span></h4>
+<h4><span class="white">皐月恵展のおみやげ。</span></h4>
 <a href="20230714_014.JPG" data-lightbox="abc"><img src="20230714_014.JPG" alt="サンプル画像" width="900" /></a>
 
 <h4><span class="red">2023年7月14日</span><span class="white"><br>皐月恵版画展は宇都宮が国内初展示。</span></h4>
