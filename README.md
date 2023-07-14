@@ -82,7 +82,7 @@ body::before {
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <h4><span class="red">2023年7月14日</span><span class="white"><br>皐月恵版画展は宇都宮が国内初展示。</span></h4><br>
 <h4><span class="white">画像⇩のクリックで皐月恵さんのHPに飛びます</span></h4>
-<a href="https://skeb.jp/@kuroe16370547" data-lightbox="abc"><img src="20230714_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://skeb.jp/@kuroe16370547"><img src="20230714_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_002.JPG" data-lightbox="abc"><img src="20230714_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_003.JPG" data-lightbox="abc"><img src="20230714_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_004.JPG" data-lightbox="abc"><img src="20230714_004.JPG" alt="サンプル画像" width="900" /></a>
