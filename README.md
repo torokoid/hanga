@@ -95,8 +95,8 @@ body::before {
 <a href="20230714_014.JPG" data-lightbox="abc"><img src="20230714_014.JPG" alt="サンプル画像" width="900" /></a>
 
 <h4><span class="red">2023年7月14日</span><span class="white"><br>皐月恵版画展は宇都宮が国内初展示。</span></h4>
-<h4><span class="white">画像⇩のクリックで皐月恵さんのHPに飛びます</span></h4>
-<a href="https://lit.link/satsukikei"><img src="20230714_001.JPG" alt="サンプル画像" width="900" /></a>
+<h4><span class="white">画像⇩のクリックで皐月恵さん紹介HPに飛びます</span></h4>
+<a href="https://r11r.jp/creator/3904/"><img src="20230714_001.JPG" alt="サンプル画像" width="900" /></a>
 <h4><span class="white">以下の画像は、会場から入れるアンケートHPの添付作品をキャプチャー。</span></h4>
 <a href="20230714_002.JPG" data-lightbox="abc"><img src="20230714_002.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230714_003.JPG" data-lightbox="abc"><img src="20230714_003.JPG" alt="サンプル画像" width="450" /></a>
