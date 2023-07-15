@@ -83,8 +83,8 @@ body::before {
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 
-<h4><span class="white">カークレーナート展のおみやげ。</span></h4>
-<a href="20230714_017.JPG" data-lightbox="abc"><img src="20230714_017.JPG" alt="サンプル画像" width="900" /></a>
+<h4><span class="white">カークレーナート展のおみやげ。画像⇩のクリックでカークレーナートさん紹介HPに飛びます</span></h4>
+<a href="https://artvivant-kirk.net/?fbclid=IwAR1tnXIC5iEsO9xHMAE_mLm3iqwI03JfMZvtBHXmshjoBCAmBXcuACl2Zw0" data-lightbox="abc"><img src="20230714_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230714_013.JPG" data-lightbox="abc"><img src="20230714_013.JPG" alt="サンプル画像" width="900" /></a>
 <h4><span class="white">カークレーナートの代表作。（背景画像ですが、すでに完売、原画は世界に100枚だけ存在）</span></h4>
 <a href="20230714_015.JPG" data-lightbox="abc"><img src="20230714_015.JPG" alt="サンプル画像" width="900" /></a>
