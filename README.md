@@ -93,6 +93,8 @@ body::before {
 <a href="20230714_012.JPG" data-lightbox="abc"><img src="20230714_012.JPG" alt="サンプル画像" width="900" /></a>
 <h4><span class="white">皐月恵展のおみやげ。</span></h4>
 <a href="20230714_014.JPG" data-lightbox="abc"><img src="20230714_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230714_018.JPG" data-lightbox="abc"><img src="20230714_018.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <h4><span class="red">2023年7月14日</span><span class="white"><br>皐月恵版画展は宇都宮が国内初展示。</span></h4>
 <h4><span class="white">画像⇩のクリックで皐月恵さん紹介HPに飛びます</span></h4>
